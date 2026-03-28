@@ -52,9 +52,8 @@ I build practical projects and focus on learning by doing.
 ## 📈 Contribution Graph 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/deeparakesh-dev/deeparakesh-dev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://ghchart.rshah.org/00f7ff/deeparakesh-dev"/>
 </p>
-
 ---
 
 ## 📫 Contact
