@@ -62,7 +62,7 @@ Gesture tracking using Python & OpenCV
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/deeparakesh-dev/deeparakesh-dev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/deeparakesh-dev/deeparakesh-dev/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 </p>
 
 ---
