@@ -63,9 +63,6 @@ I build practical projects and focus on learning by doing.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deeparakesh-dev&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deeparakesh-dev&theme=tokyonight"/>
-</p>
 ---
 
 ## 📫 Contact
