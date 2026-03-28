@@ -53,13 +53,13 @@ Gesture tracking using Python & OpenCV
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deeparakesh-dev&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeparakesh-dev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deeparakesh-dev&show_icons=true&theme=radical&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeparakesh-dev&layout=compact&theme=radical&border_radius=10"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph (Pac-Man Style 🐍)
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/deeparakesh-dev/deeparakesh-dev/output/github-contribution-grid-snake-dark.svg"/>
