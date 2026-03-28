@@ -59,10 +59,10 @@ Gesture tracking using Python & OpenCV
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (Pac-Man Style 🐍)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/deeparakesh-dev/deeparakesh-dev/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -70,8 +70,12 @@ Gesture tracking using Python & OpenCV
 ## 🤝 Let’s Connect
 
 <p align="center">
-<a href="(https://www.linkedin.com/in/deepa-rakesh-kumar/)">
+<a href="https://www.linkedin.com/in/deepa-rakesh-kumar/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/xxliliacx?igsh=YnJhNmc3dml3ODM=">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
 
